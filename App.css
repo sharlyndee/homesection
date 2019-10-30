@@ -1,0 +1,46 @@
+.background{
+  height: 70vh;
+  background: linear-gradient(rgba(255, 255, 255, .8),rgba(255,255,255,.8)),url("https://cdn.britannica.com/88/132688-050-E9739DD9/Skyline-Jakarta-Indonesia.jpg");;  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.right{
+  left: 38%;
+}
+
+.right1{
+  left: 41%;
+}
+.button{
+  position: absolute;
+  left: 40%;
+}
+.pic{
+  height: 10vh;
+}
+
+.phone{
+  height:3vh;
+}
+.h1{
+  font-size: 40px;
+  text-align: center;
+  opacity: 1;
+}
+
+.h2{
+  font-size: 70px;
+  text-align: center;
+  opacity: 1;
+}
+
+.h3{
+  font-size: 30px;
+  opacity: 1;
+}
+
+.h{
+  font-size: 5px;
+}
+
